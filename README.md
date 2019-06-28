@@ -2,6 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+`npm install bootstrap`
+`npm install react-toggle-button`
+`npm install react-multi-toggle`
+`npm install react-transition-group@1.x --save`
+
+### To deploy on github pages
+Refer Link: [https://github.com/gitname/react-gh-pages]
+
 In the project directory, you can run:
 
 ### `npm start`
