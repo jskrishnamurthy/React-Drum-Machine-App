@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Drum-Machine-App/static/css/main.ca768c79.chunk.css",
+    "main.js": "/React-Drum-Machine-App/static/js/main.aadf1d92.chunk.js",
+    "main.js.map": "/React-Drum-Machine-App/static/js/main.aadf1d92.chunk.js.map",
+    "runtime~main.js": "/React-Drum-Machine-App/static/js/runtime~main.c0dde868.js",
+    "runtime~main.js.map": "/React-Drum-Machine-App/static/js/runtime~main.c0dde868.js.map",
+    "static/css/2.510409cd.chunk.css": "/React-Drum-Machine-App/static/css/2.510409cd.chunk.css",
+    "static/js/2.93669bba.chunk.js": "/React-Drum-Machine-App/static/js/2.93669bba.chunk.js",
+    "static/js/2.93669bba.chunk.js.map": "/React-Drum-Machine-App/static/js/2.93669bba.chunk.js.map",
+    "index.html": "/React-Drum-Machine-App/index.html",
+    "precache-manifest.f8bca3451be0a0e74cefa692761413c2.js": "/React-Drum-Machine-App/precache-manifest.f8bca3451be0a0e74cefa692761413c2.js",
+    "service-worker.js": "/React-Drum-Machine-App/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/React-Drum-Machine-App/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.ca768c79.chunk.css.map": "/React-Drum-Machine-App/static/css/main.ca768c79.chunk.css.map"
+  }
+}
